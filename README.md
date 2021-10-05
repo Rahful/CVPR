@@ -1,2 +1,2 @@
-# CVPR
-Practic CVPR
+
+# Practic CVPR

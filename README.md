@@ -1,0 +1,6 @@
+# Practic CVPR
+
+COMPUTER VISION AND PATTERN RECOGNITION 
+Sec:B
+Name:B,M Rahful hasan shawon
+ID:18-38270-2
